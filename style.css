@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(to bottom, #1b1515, #262223, #322f31, #3e3d3f, #4b4b4c, #5a5a5a, #696969, #787878, #8d8d8d, #a2a2a2, #b8b8b8, #cecece);
+    font-family: 'Poppins', sans-serif;
+}
+
+hr{
+    border-bottom: 1px solid white;
+    opacity: 0.2;
+}   
+/* CSS CODES OF CLASSES START*/
+.title{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: 700;
+    font-size: 500%;
+    color:lightgray;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.81);
+}
+.title-lang{
+    text-align: center;
+    margin-top: 10%;
+    font-weight: 400;
+    font-size: 200%;
+    color: whitesmoke;
+    text-shadow: 6px 3px 3px rgba(0, 0, 0, 0.81);
+}
+
+
+.discription{
+    letter-spacing: 14px;
+    color: whitesmoke;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.81);
+}
+
+.discription-about{
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+
+.discription-footer{
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 1px 3px 3px rgba(0, 0, 0, 0.81);
+}
+
+.contact{
+    text-decoration: none;
+}
+
+.bg-grey{
+    background-color: rgb(164, 164, 164);
+}
+/* CSS CODES OF CLASSES END*/
